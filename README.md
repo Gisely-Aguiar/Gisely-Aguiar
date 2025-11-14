@@ -31,16 +31,6 @@ Sou uma entusiasta por tecnologia e desenvolvimento de sistemas, atualmente curs
 
 ---
 
-### Projetos em Destaque
-
-- [Sistema de Controle de Estoque](https://github.com/Gisely-Aguiar/projeto-estoque)  
-  Desenvolvido em Node.js e React, permite gerenciar produtos, controlar entrada e saída de estoque com autenticação.
-
-- [Site Pessoal](https://seusite.com)  
-  Portfolio responsivo feito com HTML, CSS e JavaScript, focado em UI/UX moderna.
-
----
-
 ### Estatísticas GitHub
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Gisely-Aguiar&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&custom_title=Estatísticas)
@@ -52,7 +42,7 @@ Sou uma entusiasta por tecnologia e desenvolvimento de sistemas, atualmente curs
 ### Contato
 
 <p align="left">
-  <a href="mailto:seuemail@exemplo.com" target="_blank" rel="noopener noreferrer">
+  <a href="aguiargisely05@gmail.com" target="_blank" rel="noopener noreferrer">
     <img alt="Email" title="Enviar e-mail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gisely-aguiar" target="_blank" rel="noopener noreferrer">
