@@ -1,4 +1,4 @@
-# Olá, seja bem-vinda(o) ao meu perfil! 👋
+# Olá, seja bem-vinda(o)! 👋
 
 ## Gisely Aguiar | Desenvolvedora Web
 
