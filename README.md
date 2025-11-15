@@ -36,8 +36,6 @@ Sou entusiasta de tecnologia e desenvolvimento de sistemas, atualmente cursando 
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Gisely-Aguiar&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&custom_title=Estatísticas)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gisely-Aguiar&theme=dark&custom_title=Tecnologias&langs_count=9)
-
 ---
 
 ### Contato
