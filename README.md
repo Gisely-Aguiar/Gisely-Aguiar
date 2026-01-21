@@ -69,6 +69,11 @@ Desenvolver projetos com IoT (Internet das Coisas)
 
 ## Vamos nos Conectar?
 
+Meu Portifólio
+<a href="https://gisely-aguiar-portifolio.vercel.app/" target="_blank" >
+  https://gisely-aguiar-portifolio.vercel.app/
+</a>
+
 <a href="mailto:aguiargisely05@gmail.com" target="_blank" rel="noopener noreferrer">
   <img alt="Email" title="Enviar e-mail" style="border-radius:10px; width:90px; padding-right:5px;" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
