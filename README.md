@@ -10,7 +10,7 @@ Técnica em Redes de Computadores e Desenvolvimento de Sistemas | Cotia, São Pa
 
 ## Sobre Mim
 
-Olá! Sou a Gisely, uma desenvolvedora web de 17 anos apaixonada por tecnologia e inovação. Atualmente, finalizei o ensino médio integrado ao técnico na ETEC de Embu, onde desenvolvia competências tanto em desenvolvimento de sistemas quanto em infraestrutura de redes. Busco constantemente aplicar boas práticas de desenvolvimento e enfrentar novos desafios que me permitam crescer profissionalmente.
+Olá! Sou a Gisely, uma desenvolvedora web de 18 anos apaixonada por tecnologia e inovação. Atualmente, finalizei o ensino médio integrado ao técnico na ETEC de Embu, onde desenvolvia competências tanto em desenvolvimento de sistemas quanto em infraestrutura de redes. Busco constantemente aplicar boas práticas de desenvolvimento e enfrentar novos desafios que me permitam crescer profissionalmente.
 
 ### Objetivos Profissionais
 Aprofundar conhecimentos em desenvolvimento full-stack
