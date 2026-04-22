@@ -2,20 +2,21 @@
 
 # Gisely Aguiar
 
-## Desenvolvedora Web & Estudante de Tecnologia
+## Desenvolvedora ASP.NET & Estudante de Tecnologia
 
-Técnica em Redes de Computadores e Desenvolvimento de Sistemas | Cotia, São Paulo | ETEC de Embu
+Técnica em Desenvolvimento de Sistemas e  Redes de Computadores  | Cotia, São Paulo | Advantag RFID
 
 ---
 
 ## Sobre Mim
 
-Olá! Sou a Gisely, uma desenvolvedora web de 18 anos apaixonada por tecnologia e inovação. Atualmente, finalizei o ensino médio integrado ao técnico na ETEC de Embu, onde desenvolvia competências tanto em desenvolvimento de sistemas quanto em infraestrutura de redes. Busco constantemente aplicar boas práticas de desenvolvimento e enfrentar novos desafios que me permitam crescer profissionalmente.
+Olá! Sou a Gisely, uma desenvolvedora ASP.NET de 18 anos apaixonada por tecnologia e inovação. Atualmente, finalizei o ensino médio integrado ao técnico na ETEC de Embu, onde desenvolvia competências tanto em desenvolvimento de sistemas quanto em infraestrutura de redes. Busco constantemente aplicar boas práticas de desenvolvimento e enfrentar novos desafios que me permitam crescer profissionalmente.
+Recentemente, iniciei minha carreira profissional na Advantag RFID, onde manipulo tecnologias como C# ASP.NET, Entity Framework bem como o padrão de arquitetura MVC para desempenhar minhas funções na oeganização.
 
 ### Objetivos Profissionais
 Aprofundar conhecimentos em desenvolvimento full-stack
-Desenvolver soluções tecnológicas que impactem positivamente a sociedade
-Conquistar minha primeira oportunidade profissional na área de tecnologia
+Desenvolver soluções tecnológicas que impactem positivamente o cotidiano
+Conquistar minha evolução profissional na área de tecnologia
 
 ---
 
@@ -56,13 +57,11 @@ Metodologias ágeis
 
 ## Metas de Aprendizado
 
-Aprimorar habilidades em React.js
-Aprender TypeScript
-Desenvolver um projeto full-stack completo
+Aprimorar habilidades em React.js e ASP.NET
 Obter certificação em Node.js
 Explorar desenvolvimento mobile
 Aprofundar em cloud computing
-Aprender sobre DevOps
+Aprender sobre DevOps e IA
 Desenvolver projetos com IoT (Internet das Coisas)
 
 ---
