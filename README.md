@@ -43,8 +43,11 @@ Conquistar minha evolução profissional na área de tecnologia
 ## Educação & Formação
 
 **ETEC de Embu**  
-Ensino Médio Integrado ao Técnico em Redes de Computadores e Desenvolvimento de Sistemas  
+Ensino Médio Integrado ao Técnico em Redes de Computadores
 Embu das Artes, SP | 2023 - 2025 
+
+Ensino Técnico em Desenvolvimento de Sistemas
+Embu das Artes, SP | 2024 - 2025 
 
 **Competências Desenvolvidas:**
 Desenvolvimento de sistemas web e mobile
