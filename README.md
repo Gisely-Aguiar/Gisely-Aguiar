@@ -4,7 +4,7 @@
 
 ## Desenvolvedora ASP.NET & Estudante de Tecnologia
 
-Técnica em Desenvolvimento de Sistemas e  Redes de Computadores  | Cotia, São Paulo | Advantag RFID
+Técnica em Desenvolvimento de Sistemas e  Redes de Computadores  | Embu das Artes, São Paulo | Rectask
 
 ---
 
