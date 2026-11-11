@@ -11,7 +11,7 @@ Técnica em Desenvolvimento de Sistemas e  Redes de Computadores  | Cotia, São 
 ## Sobre Mim
 
 Olá! Sou a Gisely, uma desenvolvedora ASP.NET de 18 anos apaixonada por tecnologia e inovação. Atualmente, finalizei o ensino médio integrado ao técnico na ETEC de Embu, onde desenvolvia competências tanto em desenvolvimento de sistemas quanto em infraestrutura de redes. Busco constantemente aplicar boas práticas de desenvolvimento e enfrentar novos desafios que me permitam crescer profissionalmente.
-Recentemente, iniciei minha carreira profissional na Advantag RFID, onde manipulo tecnologias como C# ASP.NET, Entity Framework bem como o padrão de arquitetura MVC para desempenhar minhas funções na oeganização.
+Recentemente, tive o prazer de entrar na equipe da Rectask, onde manipulo tecnologias como C# ASP.NET, Entity Framework bem como o padrão de arquitetura MVC para desempenhar minhas funções na organização.
 
 ### Objetivos Profissionais
 Aprofundar conhecimentos em desenvolvimento full-stack
